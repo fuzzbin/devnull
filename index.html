@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="home">
+	<section>
+		<h2 class="smallcap">om</h2>
+		<p>/dev/null er en løs samling av <a href="https://plus.google.com/u/0/+TomJarleChristiansen">tom jarles</a> tanker, tips og idéer.</p>
+	</section>
+	<section>
+		<h2 class="smallcap">innlegg</h2>
+		<ul class="post-list">
+			{% for post in site.posts limit:5 %}
+			<li>
+				<span>{{ post.date | date: "%d. %b, %Y" }}</span>
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</li>
+			{% endfor %}
+		</ul>
+		<p><a href="{{ "/archives/" | prepend: site.baseurl }}">flere innlegg...</a></p>
+	</section>
+</div>
