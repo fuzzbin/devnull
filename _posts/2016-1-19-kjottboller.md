@@ -5,7 +5,7 @@ date:   2016-1-19  00:00:00
 author: Tom Jarle
 tag:
 ---
-I [forrige post](/devnull/2016/01/01/3akter/) skrev jeg litt om Dan Meyers, og hans tanker rundt hvordan en oppgave bør konstrueres. Hva illustrerer vel metodikken bedre enn ett konkret opplegg basert på 3-act-math. Temaet i denne oppgaven er volum i sylinder og kule.
+I [forrige post](/devnull/2016/01/01/3akter/) skrev jeg litt om Dan Meyer og hans tanker rundt hvordan en oppgave bør konstrueres. Hva illustrerer vel metodikken bedre enn ett konkret opplegg basert på 3-act-math. Temaet i denne oppgaven er volum i sylinder og kule.
 
 **Første akt**
 
@@ -55,4 +55,3 @@ Dette er det store øyeblikket. Vi skal nå sjekke om våre beregninger stemmer!
 
 
 Oppgaven er laget av [Dan Meyer](http://www.101qs.com/2352-meatballs), og tilpasset til norsk av Tom Jarle Christiansen, lisens CC-BY 3.0
-
